@@ -1,12 +1,11 @@
 ### Hi there 👋, I'm Tapas
 
 ## I'm a Son, Husband, Father and Developer
-- 🔭 I’m currently working on Distributed Storage in Portworx
+- 🔭 I’m currently working on Distributed Storage in Portworx as a Tech Lead
 - 🌱 I’m currently learning a bunch of new things
 - 👯 I can collaborate on anything network or system programming related, GoLang etc...
 - 💬 Ask me about Databases( SQL Server, MySQL, Sybase ASE/IQ), C, GoLang, Docker, Kubernetes, Kerberos
-- ⚡ Fun fact: Re-learning how to play guitar
-- :guardsman: Working at Portworx as a Tech Lead
+- ⚡ Fun fact: Re-learning how to play guitar 
 
 ## Connect with me
 
